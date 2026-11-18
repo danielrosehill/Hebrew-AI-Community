@@ -8,49 +8,163 @@ People and organisations improving support for modern Hebrew across AI tasks, in
 
 ---
 
-## Organisations
+## Companies and Products
 
-### Research labs and academic groups
+Companies whose product or published work is specifically Hebrew-language AI, not companies that only serve Hebrew among many languages.
 
-| Organisation | Hebrew AI work | Links |
-|--------------|----------------|-------|
-| DICTA: The Israel Center for Text Analysis | DictaLM Hebrew LLMs, DictaBERT, BEREL (rabbinic Hebrew), nikud and other Hebrew NLP tools | [Website](https://dicta.org.il/) · [Hugging Face](https://huggingface.co/dicta-il) |
-| SLP-RL, Hebrew University | Speech and language processing lab: HebTTS (diacritic-free Hebrew TTS), SIMS speech-language models, WhiStress | [Hugging Face](https://huggingface.co/slprl) · [GitHub](https://github.com/slp-rl) |
-| ONLP Lab | AlephBERT, a foundational Hebrew BERT | [Hugging Face](https://huggingface.co/onlplab) |
-| HeNLP | HeRo (Hebrew RoBERTa) and Hebrew foundation models | [Hugging Face](https://huggingface.co/HeNLP) |
-| biunlp (Bar-Ilan NLP) | HeSum summarisation benchmark, BEIR-he retrieval sets | [Hugging Face](https://huggingface.co/biunlp) |
+### PolyLM
 
-### Non-profits and community projects
+Hebrew-native AI assistant / LLM product.
 
-| Organisation | Hebrew AI work | Links |
-|--------------|----------------|-------|
-| ivrit.ai | Open Hebrew speech corpora and Hebrew fine-tuned Whisper models; community-driven | [Website](https://www.ivrit.ai/) · [Hugging Face](https://huggingface.co/ivrit-ai) · [GitHub](https://github.com/ivrit-ai) |
-| NNLP-IL | Maintains Hebrew-Resources and the HeQ question-answering dataset; publishes Hebrew benchmarks (AlephBench, HebNLI, LCHAIM) as HebArabNlpProject on Hugging Face | [GitHub](https://github.com/NNLP-IL) · [Hugging Face](https://huggingface.co/HebArabNlpProject) |
-| Open Hebrew LLM Leaderboard | Community leaderboard evaluating LLMs on Hebrew tasks | [Blog post](https://huggingface.co/blog/leaderboard-hebrew) · [Hugging Face](https://huggingface.co/hebrew-llm-leaderboard) |
-| Hebrish | English-Hebrew code-switching speech: on-device dictation models (Parakeet fine-tunes), code-switching TTS, datasets | [Website](https://hebrish.app/) · [Hugging Face](https://huggingface.co/Hebrish) · [GitHub](https://github.com/Hebrish-ASR) |
+[![Website](https://img.shields.io/badge/Website-555555?style=flat&logo=googlechrome)](https://www.polylm.com/)
 
-### Companies and products
+---
 
-| Organisation | Hebrew AI work | Links |
-|--------------|----------------|-------|
-| RubyBot | Hebrew-native AI chatbot | [Website](https://rubybot.co.il/) |
-| PolyLM | Hebrew-native AI assistant / LLM product | [Website](https://www.polylm.com/) |
+### RubyBot
+
+Hebrew-native AI chatbot.
+
+[![Website](https://img.shields.io/badge/Website-555555?style=flat&logo=googlechrome)](https://rubybot.co.il/)
+
+---
+
+## Non-profits and Community Projects
+
+Open, community-driven efforts that build Hebrew corpora, models, tools and leaderboards.
+
+### Hebrish
+
+English-Hebrew code-switching speech: on-device dictation models (Parakeet fine-tunes), code-switching TTS, datasets.
+
+[![Website](https://img.shields.io/badge/Website-555555?style=flat&logo=googlechrome)](https://hebrish.app/) [![Hugging Face](https://img.shields.io/badge/Hugging_Face-Profile-FFD21E?style=flat&logo=huggingface)](https://huggingface.co/Hebrish) [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/Hebrish-ASR)
+
+---
+
+### ivrit.ai
+
+Open Hebrew speech corpora and Hebrew fine-tuned Whisper models; community-driven.
+
+[![Website](https://img.shields.io/badge/Website-555555?style=flat&logo=googlechrome)](https://www.ivrit.ai/) [![Hugging Face](https://img.shields.io/badge/Hugging_Face-Profile-FFD21E?style=flat&logo=huggingface)](https://huggingface.co/ivrit-ai) [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/ivrit-ai)
+
+---
+
+### NNLP-IL
+
+Maintains Hebrew-Resources and the HeQ question-answering dataset; publishes Hebrew benchmarks (AlephBench, HebNLI, LCHAIM) as HebArabNlpProject on Hugging Face.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/NNLP-IL) [![Hugging Face](https://img.shields.io/badge/Hugging_Face-Profile-FFD21E?style=flat&logo=huggingface)](https://huggingface.co/HebArabNlpProject)
+
+---
+
+### Open Hebrew LLM Leaderboard
+
+Community leaderboard evaluating LLMs on Hebrew tasks.
+
+[![Blog post](https://img.shields.io/badge/Hugging_Face-Blog_Post-FFD21E?style=flat&logo=huggingface)](https://huggingface.co/blog/leaderboard-hebrew) [![Hugging Face](https://img.shields.io/badge/Hugging_Face-Profile-FFD21E?style=flat&logo=huggingface)](https://huggingface.co/hebrew-llm-leaderboard)
 
 ---
 
 ## People
 
-Listed by their public handle, with the name they show on their own profile where they show one.
+Individuals with a body of public Hebrew-language AI work, listed by their public handle, with the name they show on their own profile where they show one.
 
-| Person | Hebrew AI work | Links |
-|--------|----------------|-------|
-| Yam Peleg (yam-peleg) | Hebrew-adapted Gemma, Mistral and Mixtral LLMs | [Hugging Face](https://huggingface.co/yam-peleg) |
-| Vladimir Gurevich (imvladikon) | wav2vec2 Hebrew ASR models, Hebrew Whisper, Hebrew sentence embeddings | [Hugging Face](https://huggingface.co/imvladikon) |
-| Doron Adler (Norod78) | Hebrew GPT-2 and GPT-Neo models, creative Hebrew fine-tunes | [Hugging Face](https://huggingface.co/Norod78) |
-| thewh1teagle | phonikud (Hebrew phonemisation/nikud), israwave TTS, Kokoro Hebrew, Hebrew Whisper with IPA output | [Hugging Face](https://huggingface.co/thewh1teagle) · [GitHub](https://github.com/thewh1teagle) |
-| avichr | heBERT, widely used for Hebrew sentiment and NER | [Hugging Face](https://huggingface.co/avichr) |
-| Ronnen Slasky (Slasky) | Hebrew-native GPT models trained from scratch | [Hugging Face](https://huggingface.co/Slasky) |
-| Daniel Rosehill (danielrosehill) | Hebrish English-Hebrew code-switching models and datasets; maintains this index | [Hugging Face](https://huggingface.co/danielrosehill) · [GitHub](https://github.com/danielrosehill) |
+### avichr
+
+heBERT, widely used for Hebrew sentiment and NER.
+
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Profile-FFD21E?style=flat&logo=huggingface)](https://huggingface.co/avichr)
+
+---
+
+### Daniel Rosehill (danielrosehill)
+
+Hebrish English-Hebrew code-switching models and datasets; maintains this index.
+
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Profile-FFD21E?style=flat&logo=huggingface)](https://huggingface.co/danielrosehill) [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/danielrosehill)
+
+---
+
+### Doron Adler (Norod78)
+
+Hebrew GPT-2 and GPT-Neo models, creative Hebrew fine-tunes.
+
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Profile-FFD21E?style=flat&logo=huggingface)](https://huggingface.co/Norod78)
+
+---
+
+### Ronnen Slasky (Slasky)
+
+Hebrew-native GPT models trained from scratch.
+
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Profile-FFD21E?style=flat&logo=huggingface)](https://huggingface.co/Slasky)
+
+---
+
+### thewh1teagle
+
+phonikud (Hebrew phonemisation/nikud), israwave TTS, Kokoro Hebrew, Hebrew Whisper with IPA output.
+
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Profile-FFD21E?style=flat&logo=huggingface)](https://huggingface.co/thewh1teagle) [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/thewh1teagle)
+
+---
+
+### Vladimir Gurevich (imvladikon)
+
+wav2vec2 Hebrew ASR models, Hebrew Whisper, Hebrew sentence embeddings.
+
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Profile-FFD21E?style=flat&logo=huggingface)](https://huggingface.co/imvladikon)
+
+---
+
+### Yam Peleg (yam-peleg)
+
+Hebrew-adapted Gemma, Mistral and Mixtral LLMs.
+
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Profile-FFD21E?style=flat&logo=huggingface)](https://huggingface.co/yam-peleg)
+
+---
+
+## Research Labs and Academic Groups
+
+University labs and research centres publishing Hebrew-language models, datasets and benchmarks.
+
+### biunlp (Bar-Ilan NLP)
+
+HeSum summarisation benchmark, BEIR-he retrieval sets.
+
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Profile-FFD21E?style=flat&logo=huggingface)](https://huggingface.co/biunlp)
+
+---
+
+### DICTA: The Israel Center for Text Analysis
+
+DictaLM Hebrew LLMs, DictaBERT, BEREL (rabbinic Hebrew), nikud and other Hebrew NLP tools.
+
+[![Website](https://img.shields.io/badge/Website-555555?style=flat&logo=googlechrome)](https://dicta.org.il/) [![Hugging Face](https://img.shields.io/badge/Hugging_Face-Profile-FFD21E?style=flat&logo=huggingface)](https://huggingface.co/dicta-il)
+
+---
+
+### HeNLP
+
+HeRo (Hebrew RoBERTa) and Hebrew foundation models.
+
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Profile-FFD21E?style=flat&logo=huggingface)](https://huggingface.co/HeNLP)
+
+---
+
+### ONLP Lab
+
+AlephBERT, a foundational Hebrew BERT.
+
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Profile-FFD21E?style=flat&logo=huggingface)](https://huggingface.co/onlplab)
+
+---
+
+### SLP-RL, Hebrew University
+
+Speech and language processing lab: HebTTS (diacritic-free Hebrew TTS), SIMS speech-language models, WhiStress.
+
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Profile-FFD21E?style=flat&logo=huggingface)](https://huggingface.co/slprl) [![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/slp-rl)
 
 ---
 
