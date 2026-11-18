@@ -2,7 +2,7 @@
 
 # Hebrew AI Community
 
-People and organisations improving support for modern Hebrew across AI tasks, in Israel and elsewhere. Part of the [Hebrew AI](https://github.com/danielrosehill/Hebrew-AI) index; their models and datasets are catalogued in [Hebrew-AI-Models](https://github.com/danielrosehill/Hebrew-AI-Models) and [Hebrew-Datasets](https://github.com/danielrosehill/Hebrew-Datasets).
+People and organisations improving support for modern Hebrew across AI tasks, in Israel and elsewhere. Part of the [Hebrew AI](https://github.com/danielrosehill/Hebrew-AI) index; their models, datasets and benchmarks are catalogued in [Hebrew-AI-Models](https://github.com/danielrosehill/Hebrew-AI-Models), [Hebrew-Datasets](https://github.com/danielrosehill/Hebrew-Datasets) and [Hebrew-AI-Benchmarks](https://github.com/danielrosehill/Hebrew-AI-Benchmarks).
 
 **Last updated:** November 18, 2026
 
@@ -18,13 +18,14 @@ People and organisations improving support for modern Hebrew across AI tasks, in
 | SLP-RL, Hebrew University | Speech and language processing lab: HebTTS (diacritic-free Hebrew TTS), SIMS speech-language models, WhiStress | [Hugging Face](https://huggingface.co/slprl) · [GitHub](https://github.com/slp-rl) |
 | ONLP Lab | AlephBERT, a foundational Hebrew BERT | [Hugging Face](https://huggingface.co/onlplab) |
 | HeNLP | HeRo (Hebrew RoBERTa) and Hebrew foundation models | [Hugging Face](https://huggingface.co/HeNLP) |
+| biunlp (Bar-Ilan NLP) | HeSum summarisation benchmark, BEIR-he retrieval sets | [Hugging Face](https://huggingface.co/biunlp) |
 
 ### Non-profits and community projects
 
 | Organisation | Hebrew AI work | Links |
 |--------------|----------------|-------|
 | ivrit.ai | Open Hebrew speech corpora and Hebrew fine-tuned Whisper models; community-driven | [Website](https://www.ivrit.ai/) · [Hugging Face](https://huggingface.co/ivrit-ai) · [GitHub](https://github.com/ivrit-ai) |
-| NNLP-IL | Maintains Hebrew-Resources, a comprehensive list of Hebrew NLP resources | [GitHub](https://github.com/NNLP-IL) |
+| NNLP-IL | Maintains Hebrew-Resources and the HeQ question-answering dataset; publishes Hebrew benchmarks (AlephBench, HebNLI, LCHAIM) as HebArabNlpProject on Hugging Face | [GitHub](https://github.com/NNLP-IL) · [Hugging Face](https://huggingface.co/HebArabNlpProject) |
 | Open Hebrew LLM Leaderboard | Community leaderboard evaluating LLMs on Hebrew tasks | [Blog post](https://huggingface.co/blog/leaderboard-hebrew) · [Hugging Face](https://huggingface.co/hebrew-llm-leaderboard) |
 | Hebrish | English-Hebrew code-switching speech: on-device dictation models (Parakeet fine-tunes), code-switching TTS, datasets | [Website](https://hebrish.app/) · [Hugging Face](https://huggingface.co/Hebrish) · [GitHub](https://github.com/Hebrish-ASR) |
 
